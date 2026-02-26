@@ -10,4 +10,3 @@
 2. Otvoriti i pokrenuti notebook:
    `Notebook/Prezentacija.ipynb`
 
-Notebook je koncizan i poziva implementacije iz `Core/` modula.
